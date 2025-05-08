@@ -1,4 +1,5 @@
 ### 👋 Hi, I'm Henry
+![](https://komarev.com/ghpvc/?username=henrydevlab)
 
 Software developer passionate about building efficient solutions.
 
