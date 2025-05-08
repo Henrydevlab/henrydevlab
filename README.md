@@ -1,5 +1,5 @@
-### 👋 Hi, I'm Henry
 ![](https://komarev.com/ghpvc/?username=henrydevlab)
+### 👋 Hi, I'm Henry 
 
 Software developer passionate about building efficient solutions.
 
@@ -40,6 +40,8 @@ Exploring distributed systems and advanced React.
 ---
 
 Thanks for visiting!
+[![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henrydevlab)
+[![twitter profile link](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/henrydevlab)
 -->
 
 
