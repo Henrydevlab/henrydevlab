@@ -2,7 +2,11 @@
 
 Software developer passionate about building efficient solutions.
 
----
+- 🔭 I’m currently working on Anchor a simple, central hub for your social and professional links.
+- 🌱 I’m currently learning on distributed systems and advanced React concepts like state management and performance optimization.
+
+
+<!--
 
 ### 🛠️ Tech Stack
 
@@ -35,7 +39,7 @@ Exploring distributed systems and advanced React.
 ---
 
 Thanks for visiting!
-
+-->
 
 
 <!--
