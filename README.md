@@ -1,13 +1,18 @@
 ![](https://komarev.com/ghpvc/?username=henrydevlab)
-### 👋 Hi, I'm Henry 
+## 👋 Hi, I'm Henry 
 
-Software developer passionate about building efficient solutions.
+A Software Engineer passionate about building efficient solutions.
 
-- 🔭 I’m currently working on Anchor a simple, central hub for your social and professional links.
-- 🌱 I’m currently learning on distributed systems and advanced React concepts like state management and performance optimization.
+- 🔭 I’m currently focused on front-end development, building my skills with HTML, CSS, and JavaScript.
+- 🌱 I’m currently learning on **Advanced JavaScript concepts :** Delving into modern JavaScript features like arrow functions, destructuring, classes, modules, and asynchronous programming with Promises and async/await to write cleaner, more efficient, and maintainable code.
+
+
+
+
 
 
 <!--
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=henrydevlab&show_icons=true&theme=dark)](https://github.com/henrydevlab/github-readme-stats)
 
 ### 🛠️ Tech Stack
 
