@@ -1,4 +1,10 @@
-## Hi there 👋
+![](https://komarev.com/ghpvc/?username=henrydevlab)
+## 👋 Hi, I'm Henry 
+
+A Software Engineer passionate about building efficient solutions.
+
+- 🔭 I’m currently focused on front-end development, building my skills with HTML, CSS, and JavaScript.
+- 🌱 I’m currently learning on **Advanced JavaScript concepts :** Delving into modern JavaScript features like arrow functions, destructuring, classes, modules, and asynchronous programming with Promises and async/await to write cleaner, more efficient, and maintainable code.
 
 <!--
 **Henrydevlab/henrydevlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
